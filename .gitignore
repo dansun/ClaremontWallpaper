@@ -1,3 +1,6 @@
+target/
+.settings/
+
 # built application files
 *.apk
 *.ap_
