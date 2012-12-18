@@ -35,7 +35,7 @@ import com.badlogic.gdx.math.Vector3;
 public class ClaremontWallpaper implements ApplicationListener {
 
 	//
-	// Ref to meshes 
+	// Ref to meshes
 	//
 	private Mesh claremontText;
 	private Mesh claremontOrb;
