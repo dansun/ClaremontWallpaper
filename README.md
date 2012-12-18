@@ -1,4 +1,4 @@
 ClaremontWallpaper
 ==================
 
-Claremont live wallpaper
+Claremont live wallpaper.
